@@ -1,0 +1,357 @@
+source_id,source_patient_id,source_pathology_label,target_id,target_patient_id,target_pathology_label,output_path,diffusion_steps,intelligibility_cfg_rate,similarity_cfg_rate,status,error_message,timestamp
+961_0,961,Healthy,P0031_0,P0031,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src961_0_tgtP0031_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:16:07.497046
+71_0,71,Healthy,P0031_0,P0031,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src71_0_tgtP0031_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:16:10.226060
+637_0,637,Healthy,P0102_0,P0102,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src637_0_tgtP0102_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:16:10.992741
+986_0,986,Healthy,P0102_0,P0102,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src986_0_tgtP0102_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:16:49.910282
+768_0,768,Healthy,P0041_0,P0041,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src768_0_tgtP0041_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:16:50.913057
+2612_0,2612,Healthy,P0041_0,P0041,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src2612_0_tgtP0041_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:16:52.344931
+717_0,717,Healthy,P0041_0,P0041,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src717_0_tgtP0041_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:16:53.614339
+1065_0,1065,Healthy,P0088_0,P0088,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1065_0_tgtP0088_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:16:54.983676
+761_0,761,Healthy,P0088_0,P0088,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src761_0_tgtP0088_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:16:55.938556
+1077_0,1077,Healthy,P0232_0,P0232,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1077_0_tgtP0232_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:16:56.556726
+1014_0,1014,Healthy,P0232_0,P0232,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1014_0_tgtP0232_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:16:57.551047
+1063_0,1063,Healthy,P0232_0,P0232,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1063_0_tgtP0232_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:16:58.344422
+738_0,738,Healthy,P0098_0,P0098,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src738_0_tgtP0098_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:16:59.200296
+921_0,921,Healthy,P0098_0,P0098,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src921_0_tgtP0098_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:00.161013
+716_0,716,Healthy,P0214_0,P0214,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src716_0_tgtP0214_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:01.071282
+1034_0,1034,Healthy,P0214_0,P0214,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1034_0_tgtP0214_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:02.010026
+1004_0,1004,Healthy,P0214_0,P0214,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1004_0_tgtP0214_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:02.983616
+1093_0,1093,Healthy,P0201_0,P0201,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1093_0_tgtP0201_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:03.962993
+1022_0,1022,Healthy,P0201_0,P0201,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1022_0_tgtP0201_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:04.902552
+1078_0,1078,Healthy,P0157_0,P0157,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1078_0_tgtP0157_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:05.598005
+1045_0,1045,Healthy,P0157_0,P0157,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1045_0_tgtP0157_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:06.418587
+1199_0,1199,Healthy,P0105_0,P0105,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1199_0_tgtP0105_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:07.021795
+889_0,889,Healthy,P0105_0,P0105,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src889_0_tgtP0105_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:08.015311
+1005_0,1005,Healthy,P0105_0,P0105,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1005_0_tgtP0105_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:08.731214
+881_0,881,Healthy,P0048_0,P0048,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src881_0_tgtP0048_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:09.406447
+2629_0,2629,Healthy,P0048_0,P0048,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src2629_0_tgtP0048_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:10.501810
+1197_0,1197,Healthy,P0128_0,P0128,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1197_0_tgtP0128_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:11.375319
+56_0,56,Healthy,P0128_0,P0128,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src56_0_tgtP0128_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:12.171120
+1198_0,1198,Healthy,P0128_0,P0128,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1198_0_tgtP0128_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:12.799839
+864_0,864,Healthy,P0162_0,P0162,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src864_0_tgtP0162_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:13.753221
+983_0,983,Healthy,P0162_0,P0162,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src983_0_tgtP0162_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:14.955760
+1112_0,1112,Healthy,TRAN_0,TRAN,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1112_0_tgtTRAN_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:16.069728
+847_0,847,Healthy,TRAN_0,TRAN,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src847_0_tgtTRAN_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:16.594870
+3_0,3,Healthy,P0115_0,P0115,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src3_0_tgtP0115_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:17.156200
+819_0,819,Healthy,P0115_0,P0115,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src819_0_tgtP0115_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:18.317457
+789_0,789,Healthy,P0220_0,P0220,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src789_0_tgtP0220_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:19.732282
+837_0,837,Healthy,P0220_0,P0220,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src837_0_tgtP0220_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:21.318633
+1006_0,1006,Healthy,P0036_0,P0036,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1006_0_tgtP0036_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:22.693986
+2297_0,2297,Healthy,P0036_0,P0036,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src2297_0_tgtP0036_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:23.922547
+877_0,877,Healthy,P0223_0,P0223,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src877_0_tgtP0223_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:24.964507
+1695_0,1695,Healthy,P0223_0,P0223,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1695_0_tgtP0223_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:25.535764
+2541_0,2541,Healthy,P0223_0,P0223,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src2541_0_tgtP0223_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:26.111351
+33_0,33,Healthy,P0149_0,P0149,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src33_0_tgtP0149_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:26.962625
+1132_0,1132,Healthy,P0149_0,P0149,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1132_0_tgtP0149_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:28.543515
+712_0,712,Healthy,P0051_0,P0051,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src712_0_tgtP0051_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:30.023184
+1204_0,1204,Healthy,P0051_0,P0051,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1204_0_tgtP0051_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:30.752667
+618_0,618,Healthy,P0175_0,P0175,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src618_0_tgtP0175_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:31.415755
+50_0,50,Healthy,P0175_0,P0175,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src50_0_tgtP0175_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:32.838687
+69_0,69,Healthy,P0061_0,P0061,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src69_0_tgtP0061_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:34.040257
+1088_0,1088,Healthy,P0061_0,P0061,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1088_0_tgtP0061_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:35.013782
+1201_0,1201,Healthy,P0061_0,P0061,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1201_0_tgtP0061_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:36.223103
+750_0,750,Healthy,P0194_0,P0194,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src750_0_tgtP0194_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:37.210665
+89_0,89,Healthy,P0194_0,P0194,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src89_0_tgtP0194_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:37.799855
+715_0,715,Healthy,P0194_0,P0194,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src715_0_tgtP0194_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:38.665963
+1196_0,1196,Healthy,P0052_0,P0052,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1196_0_tgtP0052_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:39.557385
+55_0,55,Healthy,P0052_0,P0052,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src55_0_tgtP0052_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:40.136229
+788_0,788,Healthy,P0161_0,P0161,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src788_0_tgtP0161_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:40.703781
+30_0,30,Healthy,P0161_0,P0161,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src30_0_tgtP0161_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:41.627791
+10_0,10,Healthy,P0161_0,P0161,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src10_0_tgtP0161_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:42.548088
+890_0,890,Healthy,P0065_0,P0065,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src890_0_tgtP0065_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:43.438102
+2039_0,2039,Healthy,P0065_0,P0065,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src2039_0_tgtP0065_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:44.342888
+944_0,944,Healthy,P0137_0,P0137,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src944_0_tgtP0137_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:45.097206
+8_0,8,Healthy,P0137_0,P0137,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src8_0_tgtP0137_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:46.005760
+806_0,806,Healthy,P0107_0,P0107,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src806_0_tgtP0107_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:46.766353
+1124_0,1124,Healthy,P0107_0,P0107,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1124_0_tgtP0107_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:47.641553
+727_0,727,Healthy,P0107_0,P0107,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src727_0_tgtP0107_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:48.196742
+1121_0,1121,Healthy,P0131_0,P0131,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1121_0_tgtP0131_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:48.731232
+604_0,604,Healthy,P0131_0,P0131,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src604_0_tgtP0131_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:49.874447
+815_0,815,Healthy,P0024_0,P0024,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src815_0_tgtP0024_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:50.930110
+888_0,888,Healthy,P0024_0,P0024,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src888_0_tgtP0024_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:51.691701
+1134_0,1134,Healthy,P0024_0,P0024,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1134_0_tgtP0024_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:52.239370
+1332_0,1332,Healthy,P0089_0,P0089,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1332_0_tgtP0089_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:52.824993
+112_0,112,Healthy,P0089_0,P0089,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src112_0_tgtP0089_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:53.789109
+120_0,120,Healthy,P0207_0,P0207,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src120_0_tgtP0207_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:54.833345
+1123_0,1123,Healthy,P0207_0,P0207,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1123_0_tgtP0207_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:55.995189
+13_0,13,Healthy,P0009_0,P0009,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src13_0_tgtP0009_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:56.912955
+648_0,648,Healthy,P0009_0,P0009,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src648_0_tgtP0009_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:57.777512
+1182_0,1182,Healthy,P0084_0,P0084,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1182_0_tgtP0084_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:58.511320
+924_0,924,Healthy,P0084_0,P0084,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src924_0_tgtP0084_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:17:59.728136
+1002_0,1002,Healthy,P0044_0,P0044,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1002_0_tgtP0044_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:00.731447
+39_0,39,Healthy,P0044_0,P0044,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src39_0_tgtP0044_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:01.485209
+734_0,734,Healthy,P0057_0,P0057,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src734_0_tgtP0057_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:02.198782
+1208_0,1208,Healthy,P0057_0,P0057,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1208_0_tgtP0057_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:02.904713
+873_0,873,Healthy,P0010_0,P0010,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src873_0_tgtP0010_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:03.452557
+644_0,644,Healthy,P0010_0,P0010,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src644_0_tgtP0010_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:04.473314
+12_0,12,Healthy,P0010_0,P0010,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src12_0_tgtP0010_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:05.539983
+817_0,817,Healthy,P0197_0,P0197,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src817_0_tgtP0197_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:06.647896
+791_0,791,Healthy,P0197_0,P0197,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src791_0_tgtP0197_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:08.023229
+134_0,134,Healthy,P0186_0,P0186,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src134_0_tgtP0186_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:09.083537
+1076_0,1076,Healthy,P0186_0,P0186,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1076_0_tgtP0186_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:10.570203
+898_0,898,Healthy,P0186_0,P0186,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src898_0_tgtP0186_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:11.510077
+23_1,23,Healthy,P0163_0,P0163,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src23_1_tgtP0163_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:12.659796
+1149_0,1149,Healthy,P0163_0,P0163,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1149_0_tgtP0163_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:13.791801
+1133_0,1133,Healthy,P0050_0,P0050,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1133_0_tgtP0050_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:14.393439
+622_0,622,Healthy,P0050_0,P0050,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src622_0_tgtP0050_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:15.884745
+59_0,59,Healthy,P0050_0,P0050,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src59_0_tgtP0050_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:16.745474
+875_0,875,Healthy,P0222_0,P0222,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src875_0_tgtP0222_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:17.824281
+47_0,47,Healthy,P0222_0,P0222,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src47_0_tgtP0222_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:18.421963
+860_0,860,Healthy,P0222_0,P0222,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src860_0_tgtP0222_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:18.891030
+830_0,830,Healthy,P0103_0,P0103,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src830_0_tgtP0103_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:19.514118
+94_0,94,Healthy,P0103_0,P0103,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src94_0_tgtP0103_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:20.181241
+97_0,97,Healthy,P0054_0,P0054,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src97_0_tgtP0054_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:20.737405
+967_0,967,Healthy,P0054_0,P0054,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src967_0_tgtP0054_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:21.701304
+113_0,113,Healthy,P0184_0,P0184,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src113_0_tgtP0184_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:22.367545
+1158_0,1158,Healthy,P0184_0,P0184,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1158_0_tgtP0184_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:22.973471
+1097_0,1097,Healthy,P0184_0,P0184,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1097_0_tgtP0184_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:23.499634
+960_0,960,Healthy,P0104_0,P0104,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src960_0_tgtP0104_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:24.017053
+114_0,114,Healthy,P0104_0,P0104,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src114_0_tgtP0104_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:25.048651
+904_0,904,Healthy,P0178_0,P0178,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src904_0_tgtP0178_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:25.838436
+966_0,966,Healthy,P0178_0,P0178,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src966_0_tgtP0178_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:26.742706
+61_0,61,Healthy,P0113_0,P0113,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src61_0_tgtP0113_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:27.557641
+936_0,936,Healthy,P0113_0,P0113,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src936_0_tgtP0113_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:28.540926
+831_0,831,Healthy,P0205_0,P0205,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src831_0_tgtP0205_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:29.264948
+841_0,841,Healthy,P0205_0,P0205,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src841_0_tgtP0205_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:29.930722
+139_0,139,Healthy,P0119_0,P0119,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src139_0_tgtP0119_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:30.539145
+987_0,987,Healthy,P0119_0,P0119,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src987_0_tgtP0119_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:31.713435
+988_0,988,Healthy,P0135_0,P0135,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src988_0_tgtP0135_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:32.631051
+935_0,935,Healthy,P0135_0,P0135,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src935_0_tgtP0135_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:33.362978
+739_0,739,Healthy,P0135_0,P0135,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src739_0_tgtP0135_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:34.306804
+1024_0,1024,Healthy,P0076_0,P0076,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1024_0_tgtP0076_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:34.879538
+2666_0,2666,Healthy,P0076_0,P0076,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src2666_0_tgtP0076_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:36.958929
+721_0,721,Healthy,P0076_0,P0076,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src721_0_tgtP0076_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:38.712873
+1200_0,1200,Healthy,P0130_0,P0130,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1200_0_tgtP0130_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:40.382045
+1090_0,1090,Healthy,P0130_0,P0130,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1090_0_tgtP0130_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:41.135223
+626_0,626,Healthy,P0083_0,P0083,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src626_0_tgtP0083_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:41.697757
+1147_0,1147,Healthy,P0083_0,P0083,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1147_0_tgtP0083_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:42.556409
+75_0,75,Healthy,P0153_0,P0153,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src75_0_tgtP0153_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:43.476396
+631_0,631,Healthy,P0153_0,P0153,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src631_0_tgtP0153_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:44.624996
+808_0,808,Healthy,P0221_0,P0221,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src808_0_tgtP0221_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:45.479082
+1169_0,1169,Healthy,P0221_0,P0221,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1169_0_tgtP0221_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:46.526102
+1054_0,1054,Healthy,P0164_0,P0164,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1054_0_tgtP0164_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:47.345542
+985_0,985,Healthy,P0164_0,P0164,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src985_0_tgtP0164_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:48.130764
+1055_0,1055,Healthy,P0199_0,P0199,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1055_0_tgtP0199_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:49.002416
+814_0,814,Healthy,P0199_0,P0199,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src814_0_tgtP0199_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:49.760202
+1170_0,1170,Healthy,P0199_0,P0199,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1170_0_tgtP0199_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:50.458105
+751_0,751,Healthy,P0224_0,P0224,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src751_0_tgtP0224_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:51.125513
+1046_0,1046,Healthy,P0224_0,P0224,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1046_0_tgtP0224_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:52.214823
+1207_0,1207,Healthy,P0095_0,P0095,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1207_0_tgtP0095_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:53.177326
+857_0,857,Healthy,P0095_0,P0095,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src857_0_tgtP0095_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:53.821630
+1040_0,1040,Healthy,P0112_0,P0112,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1040_0_tgtP0112_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:54.453201
+28_0,28,Healthy,P0112_0,P0112,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src28_0_tgtP0112_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:55.258787
+900_0,900,Healthy,P0045_0,P0045,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src900_0_tgtP0045_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:55.968301
+951_0,951,Healthy,P0045_0,P0045,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src951_0_tgtP0045_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:56.861779
+948_0,948,Healthy,P0147_0,P0147,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src948_0_tgtP0147_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:57.636499
+1027_0,1027,Healthy,P0147_0,P0147,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1027_0_tgtP0147_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:58.487168
+1131_0,1131,Healthy,P0132_0,P0132,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1131_0_tgtP0132_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:59.153603
+126_0,126,Healthy,P0132_0,P0132,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src126_0_tgtP0132_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:18:59.716464
+947_0,947,Healthy,P0132_0,P0132,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src947_0_tgtP0132_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:00.701210
+20_0,20,Healthy,P0062_0,P0062,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src20_0_tgtP0062_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:01.409959
+842_0,842,Healthy,P0062_0,P0062,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src842_0_tgtP0062_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:02.702358
+73_0,73,Healthy,P0106_0,P0106,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src73_0_tgtP0106_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:03.250923
+136_0,136,Healthy,P0106_0,P0106,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src136_0_tgtP0106_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:04.098995
+2146_0,2146,Healthy,P0183_0,P0183,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src2146_0_tgtP0183_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:04.892040
+756_0,756,Healthy,P0183_0,P0183,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src756_0_tgtP0183_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:05.754817
+118_0,118,Healthy,P0183_0,P0183,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src118_0_tgtP0183_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:06.510130
+1898_0,1898,Healthy,P0053_0,P0053,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1898_0_tgtP0053_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:07.492014
+143_0,143,Healthy,P0053_0,P0053,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src143_0_tgtP0053_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:08.489966
+775_0,775,Healthy,P0043_0,P0043,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src775_0_tgtP0043_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:09.241881
+974_0,974,Healthy,P0043_0,P0043,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src974_0_tgtP0043_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:09.980747
+906_0,906,Healthy,DA_0,DA,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src906_0_tgtDA_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:10.668548
+878_0,878,Healthy,DA_0,DA,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src878_0_tgtDA_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:11.482637
+1155_0,1155,Healthy,P0081_0,P0081,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1155_0_tgtP0081_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:12.069469
+1173_0,1173,Healthy,P0081_0,P0081,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1173_0_tgtP0081_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:12.647034
+32_0,32,Healthy,P0012_0,P0012,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src32_0_tgtP0012_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:13.174888
+1178_0,1178,Healthy,P0012_0,P0012,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1178_0_tgtP0012_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:13.895529
+132_0,132,Healthy,P0042_0,P0042,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src132_0_tgtP0042_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:14.596238
+897_0,897,Healthy,P0042_0,P0042,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src897_0_tgtP0042_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:15.672834
+975_0,975,Healthy,P0042_0,P0042,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src975_0_tgtP0042_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:16.734523
+1016_0,1016,Healthy,P0086_0,P0086,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1016_0_tgtP0086_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:17.708807
+1183_0,1183,Healthy,P0086_0,P0086,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1183_0_tgtP0086_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:18.456782
+713_0,713,Healthy,P0087_0,P0087,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src713_0_tgtP0087_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:19.197548
+88_0,88,Healthy,P0087_0,P0087,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src88_0_tgtP0087_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:20.037502
+1011_0,1011,Healthy,P0090_0,P0090,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1011_0_tgtP0090_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:20.693597
+1056_0,1056,Healthy,P0090_0,P0090,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1056_0_tgtP0090_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:21.831453
+1008_0,1008,Healthy,P0094_0,P0094,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1008_0_tgtP0094_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:22.531332
+803_0,803,Healthy,P0094_0,P0094,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src803_0_tgtP0094_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:23.205649
+982_0,982,Healthy,P0016_0,P0016,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src982_0_tgtP0016_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:23.730971
+64_0,64,Healthy,P0016_0,P0016,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src64_0_tgtP0016_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:24.676182
+1185_0,1185,Healthy,P0226_0,P0226,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1185_0_tgtP0226_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:25.597514
+119_0,119,Healthy,P0226_0,P0226,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src119_0_tgtP0226_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:26.852984
+893_0,893,Healthy,P0215_0,P0215,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src893_0_tgtP0215_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:27.956911
+907_0,907,Healthy,P0215_0,P0215,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src907_0_tgtP0215_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:28.695374
+1119_0,1119,Healthy,P0150_0,P0150,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1119_0_tgtP0150_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:29.520567
+82_0,82,Healthy,P0150_0,P0150,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src82_0_tgtP0150_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:30.377869
+1168_0,1168,Healthy,P0139_0,P0139,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1168_0_tgtP0139_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:31.017585
+797_0,797,Healthy,P0139_0,P0139,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src797_0_tgtP0139_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:32.110567
+1041_0,1041,Healthy,P0069_0,P0069,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1041_0_tgtP0069_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:32.996035
+46_2,46,Healthy,P0069_0,P0069,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src46_2_tgtP0069_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:34.257956
+37_0,37,Healthy,P0122_0,P0122,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src37_0_tgtP0122_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:35.770458
+83_0,83,Healthy,P0122_0,P0122,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src83_0_tgtP0122_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:36.340397
+794_0,794,Healthy,P0188_0,P0188,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src794_0_tgtP0188_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:36.949247
+84_0,84,Healthy,P0188_0,P0188,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src84_0_tgtP0188_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:37.633103
+784_0,784,Healthy,P0195_0,P0195,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src784_0_tgtP0195_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:38.212042
+14_0,14,Healthy,P0195_0,P0195,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src14_0_tgtP0195_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:38.846733
+1142_0,1142,Healthy,P0141_0,P0141,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1142_0_tgtP0141_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:39.342958
+927_0,927,Healthy,P0141_0,P0141,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src927_0_tgtP0141_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:40.625574
+913_0,913,Healthy,P0230_0,P0230,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src913_0_tgtP0230_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:41.881581
+923_0,923,Healthy,P0230_0,P0230,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src923_0_tgtP0230_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:42.908874
+109_0,109,Healthy,P0101_0,P0101,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src109_0_tgtP0101_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:43.722795
+1156_0,1156,Healthy,P0101_0,P0101,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1156_0_tgtP0101_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:44.829617
+970_0,970,Healthy,P0100_0,P0100,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src970_0_tgtP0100_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:45.678021
+1089_0,1089,Healthy,P0100_0,P0100,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1089_0_tgtP0100_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:46.865131
+1191_0,1191,Healthy,P0118_0,P0118,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1191_0_tgtP0118_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:47.807657
+736_0,736,Healthy,P0118_0,P0118,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src736_0_tgtP0118_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:48.470314
+57_0,57,Healthy,BONNAZ_0,BONNAZ,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src57_0_tgtBONNAZ_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:49.036510
+1080_0,1080,Healthy,BONNAZ_0,BONNAZ,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1080_0_tgtBONNAZ_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:50.260364
+117_0,117,Healthy,P0070_0,P0070,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src117_0_tgtP0070_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:51.226247
+60_0,60,Healthy,P0070_0,P0070,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src60_0_tgtP0070_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:52.091806
+810_0,810,Healthy,P0126_0,P0126,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src810_0_tgtP0126_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:53.058372
+621_0,621,Healthy,P0126_0,P0126,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src621_0_tgtP0126_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:54.672822
+54_0,54,Healthy,P0158_0,P0158,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src54_0_tgtP0158_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:56.029432
+1188_0,1188,Healthy,P0158_0,P0158,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1188_0_tgtP0158_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:57.690414
+843_0,843,Healthy,P0159_0,P0159,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src843_0_tgtP0159_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:19:59.419237
+859_0,859,Healthy,P0159_0,P0159,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src859_0_tgtP0159_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:00.375033
+1110_0,1110,Healthy,P0209_0,P0209,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1110_0_tgtP0209_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:01.051949
+728_0,728,Healthy,P0209_0,P0209,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src728_0_tgtP0209_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:01.884509
+1202_0,1202,Healthy,P0029_0,P0029,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1202_0_tgtP0029_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:02.407974
+2184_0,2184,Healthy,P0029_0,P0029,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src2184_0_tgtP0029_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:03.132742
+1206_0,1206,Healthy,P0018_0,P0018,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1206_0_tgtP0018_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:04.098730
+110_0,110,Healthy,P0018_0,P0018,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src110_0_tgtP0018_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:05.447169
+729_0,729,Healthy,P0063_0,P0063,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src729_0_tgtP0063_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:06.576235
+952_0,952,Healthy,P0063_0,P0063,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src952_0_tgtP0063_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:07.336641
+633_0,633,Healthy,P0151_0,P0151,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src633_0_tgtP0151_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:07.903099
+1118_0,1118,Healthy,P0151_0,P0151,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1118_0_tgtP0151_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:08.717440
+850_0,850,Healthy,P0152_0,P0152,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src850_0_tgtP0152_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:09.605696
+1174_0,1174,Healthy,P0152_0,P0152,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1174_0_tgtP0152_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:10.489635
+919_0,919,Healthy,P0174_0,P0174,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src919_0_tgtP0174_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:11.108255
+1106_0,1106,Healthy,P0174_0,P0174,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1106_0_tgtP0174_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:11.740059
+87_0,87,Healthy,P0046_0,P0046,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src87_0_tgtP0046_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:12.376934
+2166_0,2166,Healthy,P0046_0,P0046,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src2166_0_tgtP0046_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:13.016335
+950_0,950,Healthy,P0168_0,P0168,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src950_0_tgtP0168_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:13.544760
+835_0,835,Healthy,P0168_0,P0168,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src835_0_tgtP0168_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:14.276043
+1044_0,1044,Healthy,P0168_0,P0168,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1044_0_tgtP0168_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:14.795859
+36_0,36,Healthy,P0049_0,P0049,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src36_0_tgtP0049_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:15.342079
+989_0,989,Healthy,P0049_0,P0049,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src989_0_tgtP0049_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:15.924648
+1120_0,1120,Healthy,KHERRAR_0,KHERRAR,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1120_0_tgtKHERRAR_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:16.593580
+1180_0,1180,Healthy,KHERRAR_0,KHERRAR,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1180_0_tgtKHERRAR_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:17.346186
+1025_0,1025,Healthy,KHERRAR_0,KHERRAR,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1025_0_tgtKHERRAR_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:17.902571
+634_0,634,Healthy,P0136_0,P0136,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src634_0_tgtP0136_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:18.595715
+34_0,34,Healthy,P0136_0,P0136,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src34_0_tgtP0136_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:19.243752
+2126_0,2126,Healthy,P0093_0,P0093,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src2126_0_tgtP0093_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:19.835341
+849_0,849,Healthy,P0093_0,P0093,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src849_0_tgtP0093_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:20.972082
+630_0,630,Healthy,P0189_0,P0189,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src630_0_tgtP0189_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:21.720568
+1883_0,1883,Healthy,P0189_0,P0189,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1883_0_tgtP0189_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:22.826658
+1086_0,1086,Healthy,P0073_0,P0073,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1086_0_tgtP0073_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:23.735469
+826_0,826,Healthy,P0073_0,P0073,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src826_0_tgtP0073_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:24.830760
+1117_0,1117,Healthy,P0023_0,P0023,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1117_0_tgtP0023_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:25.654894
+125_0,125,Healthy,P0023_0,P0023,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src125_0_tgtP0023_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:26.743593
+876_0,876,Healthy,CARLON_0,CARLON,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src876_0_tgtCARLON_0_aug.wav,25,0.7,0.7,failed,FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/AdminIA/Desktop/ORL_IA_FOCH_Callum_HOLLIDAY\\Segmented_Voyelles_Best\\20240903_VOYELLES_segmented.wav',2026-08-25T10:20:27.602812
+1107_0,1107,Healthy,CARLON_0,CARLON,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1107_0_tgtCARLON_0_aug.wav,25,0.7,0.7,failed,FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/AdminIA/Desktop/ORL_IA_FOCH_Callum_HOLLIDAY\\Segmented_Voyelles_Best\\20240903_VOYELLES_segmented.wav',2026-08-25T10:20:27.617890
+977_0,977,Healthy,ESSERHIRI_0,ESSERHIRI,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src977_0_tgtESSERHIRI_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:27.620898
+1012_0,1012,Healthy,ESSERHIRI_0,ESSERHIRI,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1012_0_tgtESSERHIRI_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:28.304888
+862_0,862,Healthy,P0117_0,P0117,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src862_0_tgtP0117_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:28.969997
+23_0,23,Healthy,P0117_0,P0117,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src23_0_tgtP0117_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:29.603668
+1141_0,1141,Healthy,P0014_0,P0014,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1141_0_tgtP0014_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:30.252848
+1037_0,1037,Healthy,P0014_0,P0014,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1037_0_tgtP0014_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:31.275738
+52_0,52,Healthy,P0014_0,P0014,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src52_0_tgtP0014_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:32.287626
+818_0,818,Healthy,P0123_0,P0123,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src818_0_tgtP0123_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:33.115820
+108_0,108,Healthy,P0123_0,P0123,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src108_0_tgtP0123_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:35.022858
+891_0,891,Healthy,BOURDAN_0,BOURDAN,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src891_0_tgtBOURDAN_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:36.728712
+805_0,805,Healthy,BOURDAN_0,BOURDAN,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src805_0_tgtBOURDAN_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:38.185340
+615_0,615,Healthy,P0143_0,P0143,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src615_0_tgtP0143_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:39.442286
+1154_0,1154,Healthy,P0143_0,P0143,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1154_0_tgtP0143_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:40.563642
+912_0,912,Healthy,P0202_0,P0202,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src912_0_tgtP0202_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:41.768464
+1177_0,1177,Healthy,P0202_0,P0202,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1177_0_tgtP0202_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:42.967471
+1162_0,1162,Healthy,P0129_0,P0129,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1162_0_tgtP0129_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:44.087207
+772_0,772,Healthy,P0129_0,P0129,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src772_0_tgtP0129_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:45.122955
+58_0,58,Healthy,P0077_0,P0077,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src58_0_tgtP0077_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:45.937363
+1048_0,1048,Healthy,P0077_0,P0077,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1048_0_tgtP0077_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:47.577853
+17_0,17,Healthy,P0021_0,P0021,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src17_0_tgtP0021_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:48.600553
+997_0,997,Healthy,P0021_0,P0021,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src997_0_tgtP0021_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:50.349084
+719_0,719,Healthy,P0219_0,P0219,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src719_0_tgtP0219_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:51.559760
+714_0,714,Healthy,P0219_0,P0219,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src714_0_tgtP0219_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:52.842744
+720_0,720,Healthy,P0192_0,P0192,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src720_0_tgtP0192_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:54.026229
+770_0,770,Healthy,P0192_0,P0192,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src770_0_tgtP0192_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:55.733285
+740_0,740,Healthy,P0156_0,P0156,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src740_0_tgtP0156_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:57.341697
+1018_0,1018,Healthy,P0156_0,P0156,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1018_0_tgtP0156_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:58.916419
+2331_0,2331,Healthy,P0133_0,P0133,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src2331_0_tgtP0133_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:20:59.763723
+1192_0,1192,Healthy,P0133_0,P0133,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1192_0_tgtP0133_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:00.648073
+812_0,812,Healthy,MBAREK_0,MBAREK,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src812_0_tgtMBAREK_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:01.446514
+77_0,77,Healthy,MBAREK_0,MBAREK,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src77_0_tgtMBAREK_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:02.416749
+1145_0,1145,Healthy,P0166_0,P0166,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1145_0_tgtP0166_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:03.471278
+816_0,816,Healthy,P0166_0,P0166,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src816_0_tgtP0166_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:04.701750
+780_0,780,Healthy,P0097_0,P0097,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src780_0_tgtP0097_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:05.834671
+910_0,910,Healthy,P0097_0,P0097,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src910_0_tgtP0097_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:07.427806
+759_0,759,Healthy,P0179_0,P0179,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src759_0_tgtP0179_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:08.546109
+957_0,957,Healthy,P0179_0,P0179,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src957_0_tgtP0179_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:09.821128
+1089_1,1089,Healthy,P0019_0,P0019,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1089_1_tgtP0019_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:10.866536
+1028_0,1028,Healthy,P0019_0,P0019,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1028_0_tgtP0019_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:11.995364
+1163_0,1163,Healthy,P0193_0,P0193,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1163_0_tgtP0193_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:13.112328
+1094_0,1094,Healthy,P0193_0,P0193,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1094_0_tgtP0193_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:14.384182
+2082_0,2082,Healthy,P0204_0,P0204,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src2082_0_tgtP0204_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:15.544062
+792_0,792,Healthy,P0204_0,P0204,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src792_0_tgtP0204_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:17.244416
+92_0,92,Healthy,P0190_0,P0190,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src92_0_tgtP0190_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:18.395110
+612_0,612,Healthy,P0190_0,P0190,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src612_0_tgtP0190_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:20.134500
+1036_0,1036,Healthy,HAIDI_0,HAIDI,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1036_0_tgtHAIDI_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:21.218974
+807_0,807,Healthy,HAIDI_0,HAIDI,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src807_0_tgtHAIDI_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:22.083884
+1146_0,1146,Healthy,P0140_0,P0140,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1146_0_tgtP0140_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:23.078868
+903_0,903,Healthy,P0140_0,P0140,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src903_0_tgtP0140_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:23.901030
+1113_0,1113,Healthy,P0210_0,P0210,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1113_0_tgtP0210_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:24.904631
+934_0,934,Healthy,P0210_0,P0210,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src934_0_tgtP0210_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:26.376614
+894_0,894,Healthy,P0225_0,P0225,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src894_0_tgtP0225_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:27.566240
+614_0,614,Healthy,P0225_0,P0225,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src614_0_tgtP0225_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:28.642859
+1108_0,1108,Healthy,P0138_0,P0138,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1108_0_tgtP0138_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:29.601693
+49_0,49,Healthy,P0138_0,P0138,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src49_0_tgtP0138_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:30.778972
+743_0,743,Healthy,P0198_0,P0198,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src743_0_tgtP0198_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:31.874191
+22_0,22,Healthy,P0198_0,P0198,PR,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src22_0_tgtP0198_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:32.840577
+958_0,958,Healthy,P0229_0,P0229,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src958_0_tgtP0229_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:34.008885
+2405_0,2405,Healthy,P0229_0,P0229,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src2405_0_tgtP0229_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:35.146854
+53_0,53,Healthy,P0203_0,P0203,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src53_0_tgtP0203_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:36.029054
+992_0,992,Healthy,P0203_0,P0203,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src992_0_tgtP0203_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:37.059618
+129_0,129,Healthy,P0144_0,P0144,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src129_0_tgtP0144_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:37.882588
+785_0,785,Healthy,P0144_0,P0144,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src785_0_tgtP0144_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:38.758793
+31_0,31,Healthy,P0124_0,P0124,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src31_0_tgtP0124_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:39.541903
+963_0,963,Healthy,P0124_0,P0124,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src963_0_tgtP0124_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:40.544374
+933_0,933,Healthy,P0035_0,P0035,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src933_0_tgtP0035_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:41.410098
+991_0,991,Healthy,P0035_0,P0035,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src991_0_tgtP0035_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:43.071101
+1052_0,1052,Healthy,P0035_0,P0035,fuite glottique,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1052_0_tgtP0035_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:44.147810
+984_0,984,Healthy,P0003_0,P0003,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src984_0_tgtP0003_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:45.272889
+899_0,899,Healthy,P0003_0,P0003,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src899_0_tgtP0003_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:47.076297
+122_0,122,Healthy,P0006_0,P0006,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src122_0_tgtP0006_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:48.455614
+12_1,12,Healthy,P0006_0,P0006,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src12_1_tgtP0006_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:49.887025
+981_0,981,Healthy,P0008_0,P0008,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src981_0_tgtP0008_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:50.795028
+610_0,610,Healthy,P0008_0,P0008,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src610_0_tgtP0008_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:51.857244
+1912_1,1912,Healthy,P0011_0,P0011,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1912_1_tgtP0011_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:52.782558
+1015_0,1015,Healthy,P0011_0,P0011,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1015_0_tgtP0011_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:54.484192
+130_0,130,Healthy,P0013_0,P0013,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src130_0_tgtP0013_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:57.216369
+1166_0,1166,Healthy,P0013_0,P0013,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1166_0_tgtP0013_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:21:59.661999
+1179_0,1179,Healthy,P0037_0,P0037,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1179_0_tgtP0037_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:22:01.899936
+1100_0,1100,Healthy,P0037_0,P0037,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1100_0_tgtP0037_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:22:04.190944
+771_0,771,Healthy,P0038_0,P0038,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src771_0_tgtP0038_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:22:05.356525
+1083_0,1083,Healthy,P0038_0,P0038,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1083_0_tgtP0038_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:22:06.712661
+824_0,824,Healthy,P0040_0,P0040,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src824_0_tgtP0040_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:22:07.646899
+607_0,607,Healthy,P0040_0,P0040,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src607_0_tgtP0040_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:22:08.900547
+1103_0,1103,Healthy,P0047_0,P0047,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1103_0_tgtP0047_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:22:09.807594
+741_0,741,Healthy,P0047_0,P0047,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src741_0_tgtP0047_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:22:10.850387
+999_0,999,Healthy,P0060_0,P0060,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src999_0_tgtP0060_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:22:11.814515
+1159_0,1159,Healthy,P0060_0,P0060,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1159_0_tgtP0060_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:22:12.715693
+929_0,929,Healthy,P0071_0,P0071,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src929_0_tgtP0071_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:22:13.582455
+1105_0,1105,Healthy,P0071_0,P0071,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1105_0_tgtP0071_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:22:14.575907
+825_0,825,Healthy,P0074_0,P0074,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src825_0_tgtP0074_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:22:15.466421
+778_0,778,Healthy,P0074_0,P0074,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src778_0_tgtP0074_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:22:16.796721
+1171_0,1171,Healthy,P0096_0,P0096,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1171_0_tgtP0096_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:22:17.866114
+1111_0,1111,Healthy,P0096_0,P0096,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1111_0_tgtP0096_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:22:18.523010
+1114_0,1114,Healthy,P0154_0,P0154,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1114_0_tgtP0154_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:22:19.317364
+1127_0,1127,Healthy,P0154_0,P0154,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1127_0_tgtP0154_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:22:20.815363
+641_0,641,Healthy,P0155_0,P0155,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src641_0_tgtP0155_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:22:21.739232
+639_0,639,Healthy,P0155_0,P0155,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src639_0_tgtP0155_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:22:22.455079
+1030_0,1030,Healthy,P0169_0,P0169,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src1030_0_tgtP0169_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:22:23.075488
+25_0,25,Healthy,P0169_0,P0169,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src25_0_tgtP0169_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:22:24.012914
+748_0,748,Healthy,P0172_0,P0172,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src748_0_tgtP0172_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:22:24.596885
+867_0,867,Healthy,P0172_0,P0172,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src867_0_tgtP0172_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:22:25.661454
+63_0,63,Healthy,P0173_0,P0173,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src63_0_tgtP0173_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:22:26.473888
+863_0,863,Healthy,P0173_0,P0173,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src863_0_tgtP0173_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:22:27.300217
+2_0,2,Healthy,P0206_0,P0206,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src2_0_tgtP0206_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:22:27.995910
+796_0,796,Healthy,P0206_0,P0206,LMB,C:\Users\AdminIA\Desktop\Classif_Aug\voice_conversion\augmented_h\src796_0_tgtP0206_0_aug.wav,25,0.7,0.7,success,,2026-08-25T10:22:28.807060

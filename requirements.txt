@@ -1,0 +1,59 @@
+# Dépendances Python — Classification pathologies vocales FOCH
+# Reconstruit à partir des imports réels des notebooks (voir notebooks/production
+# et notebooks/exploration). L'ancien requirements.txt vivait dans Classification_Algo/,
+# supprimé depuis — celui-ci le remplace et couvre l'ensemble du projet.
+#
+# Installation :
+#   python -m pip install -r requirements.txt
+#   pip install torch torchaudio torchvision --index-url https://download.pytorch.org/whl/cu121
+#
+# Voir README.md §2 pour les contraintes réseau (HF_HUB_OFFLINE=1) et les chemins
+# de cache modèles locaux.
+
+# ── Core deep learning ────────────────────────────────────────────────────────
+torch>=2.0.0
+torchaudio>=2.0.0
+torchvision>=0.15.0        # ResNet101 (notebook 4_0)
+
+# ── HuggingFace (backbones WavLM / AST / DINOv2 / Pantagruel) ─────────────────
+transformers>=4.30.0
+huggingface_hub>=0.20.0    # snapshot_download / vérification de cache local
+
+# ── Data science ───────────────────────────────────────────────────────────────
+pandas>=1.5.0
+numpy>=1.23.0
+scipy>=1.10.0               # notebook 3_0 (augmentation signal-level)
+scikit-learn>=1.2.0
+
+# ── Visualisation ────────────────────────────────────────────────────────────
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# ── Augmentation et validation acoustique (notebook 3_0, production) ──────────
+soundfile>=0.12.0           # écriture des WAV augmentés
+praat-parselmouth>=0.4.5    # validation jitter/shimmer/HNR/F0
+
+# ── Lignée Pantagruel — résidu vocodeur (notebooks 10_0, 11_0, production) ────
+vocos>=0.1.0                # vocodeur neuronal pré-entraîné (résidu de resynthèse)
+PyYAML>=6.0                 # config Vocos
+PyWavelets>=1.4.0           # notebook 11_0 : scalogramme CWT
+
+# ═══════════════════════════════════════════════════════════════════════════
+# Dépendances OPTIONNELLES — uniquement pour rejouer des notebooks
+# d'exploration (notebooks/exploration/), pas nécessaires pour production/.
+# Installer à la demande selon le notebook que vous rouvrez.
+# ═══════════════════════════════════════════════════════════════════════════
+
+# librosa>=0.10.0            # pantagruel/9_0, specaug/specaug.ipynb, vocoder/vocoder_residual_exploration.ipynb
+# audiomentations>=0.30.0    # pantagruel/9_0 (augmentation signal-level, version antérieure au réimplémenté NumPy)
+# optuna>=3.0.0               # pantagruel/10_1 (ablation SVM + recherche d'hyperparamètres)
+# reservoirpy>=0.3.0          # transfer_learning_backbones/5_0_foch_test_upgrade_3_branch.ipynb (piste abandonnée, voir RAPPORT_CONTEXTE.md §4)
+# bitsandbytes>=0.41.0        # 6_0_foch_test_upgrade.ipynb (quantization, essai VoxCeleb)
+
+# ── Dépendance NON pip : VoxCeleb (6_0_foch_test_upgrade.ipynb, exploration) ──
+# Ces notebooks importent `from models.ResNetSE34L import MainModel`, un module
+# local qui n'est PAS un paquet pip. Il vient du dépôt public clovaai/voxceleb_trainer
+# (https://github.com/clovaai/voxceleb_trainer) et attend un checkpoint pré-entraîné
+# (`baseline_lite_ap.model`, chemin d'origine : C:/Users/AdminIA/Desktop/Vox_celeb/
+# voxceleb_trainer/). Cloner ce dépôt et adapter le chemin si vous rejouez ces
+# notebooks — non nécessaire pour les notebooks de production.
