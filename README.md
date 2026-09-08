@@ -1,3 +1,5 @@
+<div align="center">
+
 # 📖 LIS MOI !
 
 *Le petit guide (pas si petit) pour la prochaine personne qui reprend ce projet.*
@@ -6,6 +8,7 @@
 
 ---
 
+</div>
 
 <a name="presentation"></a>
 ## Petite présentation
