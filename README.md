@@ -48,7 +48,7 @@ J'ai essayé au mieux de rendre mes ressources accessibles aux prochains stagiai
 
 J'ai pas mal de repos si tu veux voir plus en détail mais en vrai c'est beaucoup de lecture et tout vraiment c'est relou... Je te conseille vraiment d'utiliser ce dossier pour commencer.
 
-Donc, dans ce dossier j'ai installé toutes les bibliothèques pour toi (je sais que peut-être tu voulais installer toi-même pour faire vraiment le geek mais bon fallait être MEILLEUR !).
+Donc, dans ce dossier j'ai installé toutes les bibliothèques pour toi dans la venv (je sais que peut-être tu voulais installer toi-même pour faire vraiment le geek mais bon fallait être MEILLEUR !).
 
 ---
 

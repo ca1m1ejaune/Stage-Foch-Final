@@ -49,3 +49,7 @@ data/resultats/.foch_*/
 *.tmp
 *.bak
 /tmp/
+
+# Word 
+
+.docx
