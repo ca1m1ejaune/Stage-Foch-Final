@@ -40,6 +40,8 @@ data/**/*.json
 data/augmentation_manifest*
 data/resultats/runs_log*.csv
 data/resultats/.foch_*/
+data/seed_vc_data/augmentation_manifest_seedvc_h.csv
+data/seed_vc_data/augmentation_manifest_seedvc.csv
 
 # Jupyter
 .ipynb_checkpoints/
